@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Petanque.CSharp", "UnityVS.Petanque.CSharp.csproj", "{C7C7FAB5-DDA0-F182-D9F3-7037122A6A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Petanque.CSharp.Editor", "UnityVS.Petanque.CSharp.Editor.csproj", "{831EE7F7-E86B-9456-4962-2207136F44DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C7FAB5-DDA0-F182-D9F3-7037122A6A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C7FAB5-DDA0-F182-D9F3-7037122A6A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C7FAB5-DDA0-F182-D9F3-7037122A6A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C7FAB5-DDA0-F182-D9F3-7037122A6A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EE7F7-E86B-9456-4962-2207136F44DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EE7F7-E86B-9456-4962-2207136F44DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EE7F7-E86B-9456-4962-2207136F44DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EE7F7-E86B-9456-4962-2207136F44DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
